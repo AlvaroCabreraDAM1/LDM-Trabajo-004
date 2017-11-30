@@ -12,10 +12,7 @@ https://rawgit.com/AlvaroCabreraDAM1/LDM-Trabajo-004/master/lunarLander.html
 
 ### Modificaciones respecto al modelo inicial:
 
-- Modificación del medidor de gasolina: He modificado ligeramente el diseño del indicador para que no muestre el porcentaje de gasolina.
-Esto se ha hecho debido a que, con la ayuda del diseñador, llegamos a la conclusión de que el jugador no se fijaria en el medidor de
-aguja y se centraría en el porcentaje, ya que ofrece una información más directa sobre el estado del depósito. El objetivo del medidor
-de aguja es que el jugador tenga una experiencia más realista, y un medidor en forma de porcentaje no le daría esa sensación.
+- Modificación del medidor de gasolina: He modificado ligeramente el diseño del indicador para que no muestre el porcentaje de gasolina. Esto se ha hecho debido a que, con la ayuda del diseñador, llegamos a la conclusión de que el jugador no se fijaria en el medidor de aguja y se centraría en el porcentaje, ya que ofrece una información más directa sobre el estado del depósito. El objetivo del medidor de aguja es que el jugador tenga una experiencia más realista, y un medidor en forma de porcentaje no le daría esa sensación.
 
 - Modificación de la disposición de los medidores: He desplazado los medidores de gasolina, altura y velocidad para que queden más
 centrados en la parte izquierda de la pantalla.
