@@ -8,13 +8,12 @@ https://rawgit.com/AlvaroCabreraDAM1/LDM-Trabajo-004/master/lunarLander.html
 - 2 archivos html, uno para el juego y otro para la pantalla de instrucciones.
 - Una carpeta con las imágenes usadas.
 - Una carpeta con 4 archivos css (2 para el juego y 2 para la página de instrucciones).
-- Una ramificacion con el código comprimido. 
+- Una ramificacion con el código comprimido.
+
   Enlace a la ramificacion: 
-  
   https://github.com/AlvaroCabreraDAM1/LDM-Trabajo-004/tree/Compresed-code
   
   Enlace a la pagina con el codigo comprimido: 
-  
   https://rawgit.com/AlvaroCabreraDAM1/LDM-Trabajo-004/Compresed-code/lunarLander.html
 
 ### Modificaciones respecto al modelo inicial:
