@@ -11,9 +11,11 @@ https://rawgit.com/AlvaroCabreraDAM1/LDM-Trabajo-004/master/lunarLander.html
 - Una ramificacion con el código comprimido.
 
   Enlace a la ramificacion: 
+  
   https://github.com/AlvaroCabreraDAM1/LDM-Trabajo-004/tree/Compresed-code
   
   Enlace a la pagina con el codigo comprimido: 
+  
   https://rawgit.com/AlvaroCabreraDAM1/LDM-Trabajo-004/Compresed-code/lunarLander.html
 
 ### Modificaciones respecto al modelo inicial:
